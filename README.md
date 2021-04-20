@@ -1,15 +1,15 @@
 ## 👨‍💻 Contador de pessoas
 
-![](PrintScreen/app1.png height="150px" width="150px")
+![](PrintScreen/app1.png)
 
 ## 👨‍💻 Calculadora IMC
 
-![](PrintScreen/app2.png  =250x250)
+![](PrintScreen/app2.png)
 
 ## 👨‍💻 Conversor de Moedas
 
-![](PrintScreen/app3.png  =250x250)
+![](PrintScreen/app3.png)
 
 ## 👨‍💻 Lista de Tarefas
 
-![](PrintScreen/app4.png  =250x250)
+![](PrintScreen/app4.png)

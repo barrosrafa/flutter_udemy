@@ -1,6 +1,6 @@
 ## 👨‍💻 Contador de pessoas
 
-![](PrintScreen/app1.png  =250x250)
+![](PrintScreen/app1.png){:height="24px" width="48px"}
 
 ## 👨‍💻 Calculadora IMC
 

@@ -1,3 +1,3 @@
 ## 👨‍💻 Contador de pessoas
 
-![](.github/app1.png)
+![](app1.png)

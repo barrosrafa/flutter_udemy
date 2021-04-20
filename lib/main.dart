@@ -8,5 +8,5 @@ void main() {
   runApp(MaterialApp(
       title: "udemy",
       debugShowCheckedModeBanner: false,
-      home: ListaTarefas()));
+      home: Contador()));
 }

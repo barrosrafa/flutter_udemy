@@ -15,5 +15,5 @@ void main() {
       debugShowCheckedModeBanner: false,
       home: ChatPage()));
 
-    Firestore.instance.collection("users").document("doc").setData({"texto": "rafael"});
+    Firestore.instance.collection("users").document("docIos").setData({"texto": "ios"});
 }

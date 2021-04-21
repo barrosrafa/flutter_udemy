@@ -20,4 +20,4 @@
 
 ## 👨‍💻 Agenda de contatos
 
-![](PrintScreen/app6.png)
+![](PrintScreen/app6.jpeg)

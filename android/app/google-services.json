@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "391376134914",
+    "project_id": "flutter-chat-barros",
+    "storage_bucket": "flutter-chat-barros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391376134914:android:849c4d74c7d6fc2e80981b",
+        "android_client_info": {
+          "package_name": "br.com.barros.flutter_udemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391376134914-r9s0iefmpm5fgvd8dvec8buk761jlgp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.barros.flutter_udemy",
+            "certificate_hash": "08429eddf6bd2691a8c74ead95880e3d3fc58357"
+          }
+        },
+        {
+          "client_id": "391376134914-s9peaqefvkesmosvdpai0rbtjgujvre6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPELzRMRzcrgon57x2b2NDWrIawztQYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391376134914-s9peaqefvkesmosvdpai0rbtjgujvre6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

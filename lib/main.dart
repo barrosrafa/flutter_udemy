@@ -13,7 +13,7 @@ void main() {
   runApp(MaterialApp(
       title: "udemy",
       debugShowCheckedModeBanner: false,
-      home: ChatPage()));
+      home: ChatScreen()));
 
     Firestore.instance.collection("users").document("docIos").setData({"texto": "ios"});
 }
